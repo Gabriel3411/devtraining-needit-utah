@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name>Special days Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-03 19:19:10</sys_created_on>
+        <sys_id>e24aa0c647620210213c3b12d16d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Special days Properties</sys_name>
+        <sys_package display_value="needit" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="needit">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_e24aa0c647620210213c3b12d16d43a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 19:19:10</sys_updated_on>
+        <title><![CDATA[<p><span style="text-decoration: underline; font-size: 18pt;"><em>SPECIAL DAYS PROPERTIES</em></span></p>
+<p>Esta propriedade pode ser atualizada por usuarios com o employee special days admins</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=e24aa0c647620210213c3b12d16d43a8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>eba5d7571b31c29878c7cb7b234bcb7f</instance_id>
+        <instance_name>dev262802</instance_name>
+        <name>sys_properties_category_e24aa0c647620210213c3b12d16d43a8</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt;Special days Properties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-03 19:19:10&lt;/sys_created_on&gt;&lt;sys_id&gt;e24aa0c647620210213c3b12d16d43a8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Special days Properties&lt;/sys_name&gt;&lt;sys_package display_value="needit" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_e24aa0c647620210213c3b12d16d43a8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-06-03 19:19:10&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;&lt;span style="text-decoration: underline; font-size: 18pt;"&gt;&lt;em&gt;SPECIAL DAYS PROPERTIES&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Esta propriedade pode ser atualizada por usuarios com o employee special days admins&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e24aa0c647620210213c3b12d16d43a8"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1940158718</payload_hash>
+        <record_name>Special days Properties</record_name>
+        <reverted_from/>
+        <source>2de1e00e47220210213c3b12d16d432c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-03 19:19:10</sys_created_on>
+        <sys_id>e6ba280a47620210213c3b12d16d439e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18fdf8a8f290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 19:19:10</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>eaba280a7e62021026132e5557347b9d</update_guid>
+        <update_guid_history>eaba280a7e62021026132e5557347b9d:-1940158718</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-03 19:36:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>5a92e3d1683f45b0ae7e27ef16dbf164</sys_id>
+        <sys_metadata>e24aa0c647620210213c3b12d16d43a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Special days Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_e24aa0c647620210213c3b12d16d43a8</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_e24aa0c647620210213c3b12d16d43a8">e6ba280a47620210213c3b12d16d439e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-03 19:36:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
